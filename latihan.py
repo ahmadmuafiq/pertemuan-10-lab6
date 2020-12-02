@@ -1,25 +1,8 @@
-# pertemuan-10-lab6
-Repository ini dibuat untuk memenuhi Tugas Bahasa Pemrograman - Pertemuan 10 - lab6
-
-Pada mata kuliah Bahasa Pemrograman Pertemuan 10, saya diberi materi oleh dosen yaitu. Fungsi, Module dan Package.<br>
-
-## Latihan
-
-Pada pembahasan kali ini saya diberikan tugas oleh dosen untuk mengerjakan sebuah program sederhana dalam sebuah Tugas Latihan.
-
-* Dosen memberikan tugas seperti berikut :<br>
-![Soal Latihan Lab 6](pict/soal-latihan.PNG) <br>
-
-* Setelah saya membaca dan memahami materi yang diberikan oleh Dosen, dan mencari referensi dari Internet, entah itu dari Forum Programmer ataupun Modul-modul yang dishare oleh seseorang<br>
-
-* Seperti berikut source code yang telah saya kerjakan untuk Tugas Latihan :<br>
-
-``` python
 import math
 
 print("====================================")
-print("Nama : AHMAD MUAFIQ")
-print("NIM : 312010152")
+print("Nama : FEBRO HERDYANTO")
+print("NIM : 312010043")
 print("Kelas : TI.20.B.1")
 print("Mata Kuliah : Bahasa Pemrograman")
 print("====================================")
@@ -66,4 +49,3 @@ d2 = lambda s: "".join(set(s))
 print("-----------------------------------------")
 print("4. Mengubah function menggunakan Lambda \n   def d(s): \n \t   return "".join(set(s))")
 print("   Hasil : d2 = lambda s: "".join(set(s))")
-```
