@@ -67,3 +67,10 @@ print("-----------------------------------------")
 print("4. Mengubah function menggunakan Lambda \n   def d(s): \n \t   return "".join(set(s))")
 print("   Hasil : d2 = lambda s: "".join(set(s))")
 ```
+
+* Dari hasil source code diatas sebagai berikut :<br>
+![Hasil Soal Latihan](picture/hasil-latihan.PNG)
+
+* Dalam Tugas Latihan diatas saya menggunakan bahasa Lambda
+
+<hr>
