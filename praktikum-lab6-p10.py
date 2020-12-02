@@ -2,7 +2,7 @@ from prettytable import PrettyTable
 
 print("=======================================")
 print("Nama : AHMADM MUAFIQ")
-print("NIM : 312010043")
+print("NIM : 312010152")
 print("Kelas : TI.20.B.1")
 print("Mata Kuliah : Bahasa Pemrograman")
 print("Tugas : Praktikum Lab 6 - Pertemuan 10")
