@@ -1,8 +1,8 @@
 import math
 
 print("====================================")
-print("Nama : FEBRO HERDYANTO")
-print("NIM : 312010043")
+print("Nama : AHMAD MUAFIQ")
+print("NIM : 312010152")
 print("Kelas : TI.20.B.1")
 print("Mata Kuliah : Bahasa Pemrograman")
 print("====================================")
