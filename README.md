@@ -8,7 +8,7 @@ Pada mata kuliah Bahasa Pemrograman Pertemuan 10, saya diberi materi oleh dosen 
 Pada pembahasan kali ini saya diberikan tugas oleh dosen untuk mengerjakan sebuah program sederhana dalam sebuah Tugas Latihan.
 
 * Dosen memberikan tugas seperti berikut :<br>
-![Soal Latihan Lab 6](pict/soal-latihan.PNG) <br>
+![Soal Latihan Lab 6](picture/latihan.PNG) <br>
 
 * Setelah saya membaca dan memahami materi yang diberikan oleh Dosen, dan mencari referensi dari Internet, entah itu dari Forum Programmer ataupun Modul-modul yang dishare oleh seseorang<br>
 
